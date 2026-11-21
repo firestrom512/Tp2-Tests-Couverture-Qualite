@@ -14,6 +14,8 @@ from src.validators import isValidAge, isValidEmail, isValidPassword
     ("", False),
     (None, False),
     ("user@domain", False),
+    ("userdomain.com", False),
+    ("name.surname.com", False),
     ("user @domain.com", False),
     ("user@.com", False),
 ])
