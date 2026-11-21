@@ -56,7 +56,7 @@ Codes de démonstration : `BIENVENUE20` (-20 % dès 15 €), `FIXE5` (-5 € dè
 
 ## Documentation de la méthode TDD
 
-Voir [docs/EXPERIMENTS.md](docs/EXPERIMENTS.md) pour les manipulations A3 et l'ordre Red → Green → Refactor d'A4.
+Voir [docs/EXPERIMENTS.md](docs/EXPERIMENTS.md) pour les consignes et [docs/RESULTATS_A3_A4.md](docs/RESULTATS_A3_A4.md) pour les échecs réellement observés et la démonstration Red → Green.
 
 ## Structure
 
