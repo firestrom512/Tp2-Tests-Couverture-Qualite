@@ -6,7 +6,6 @@ from decimal import Decimal
 
 from src.utils import _money
 
-
 PROMO_CODES = [
     {"code": "BIENVENUE20", "type": "percentage", "value": 20,
      "minOrder": 15.0, "expiresAt": "2099-12-31"},
