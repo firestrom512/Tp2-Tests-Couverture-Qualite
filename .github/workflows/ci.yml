@@ -27,4 +27,4 @@ jobs:
       - name: Lint
         run: ruff check .
       - name: Tests et couverture (seuil 80%)
-        run: pytest
+        run: python -m pytest
